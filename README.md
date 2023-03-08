@@ -1,6 +1,4 @@
 # Bank customer dashboard created using Tableau
-### @author: Nikhil Jagnade
-### @date: 08 March 2023
 
 <img width="987" alt="image" src="https://user-images.githubusercontent.com/64134540/223700686-09ac3d31-9bcc-4cd7-ae0e-7cd8ed0602e0.png">
 
