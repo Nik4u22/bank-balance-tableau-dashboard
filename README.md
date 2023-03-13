@@ -1,5 +1,8 @@
 # Bank customer dashboard created using Tableau
 
+<img width="1022" alt="image" src="https://user-images.githubusercontent.com/64134540/224697953-a89e6f0a-2e4b-4625-8956-21237e494a0f.png">
+
+
 <img width="987" alt="image" src="https://user-images.githubusercontent.com/64134540/223700686-09ac3d31-9bcc-4cd7-ae0e-7cd8ed0602e0.png">
 
 ### Steps to create a dashboard using Tableau Desktop:
